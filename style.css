@@ -285,7 +285,10 @@ footer {
   margin-top: 30px;
 }
 .foot-logo {
-  background-image: url("images/swiggy-white-logo.jpg");
+  /* background-image: url("images/swiggy-white-logo.jpg"); */
+  /* background-image: url("https://github.com/arjunravi26/Swiggy/blob/main/Images/swiggy-white-logo.jpg"); */
+  background-image: url("https://raw.githubusercontent.com/arjunravi26/Swiggy/main/Images/swiggy-white-logo.jpg");
+
   background-size: cover;
   height: 50px;
   width: 50px;
