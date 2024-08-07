@@ -148,6 +148,7 @@ body {
   gap: 20px;
   grid-auto-flow: row;
 }
+/* Style for item not available */
 .items-not {
   cursor: not-allowed;
 }
